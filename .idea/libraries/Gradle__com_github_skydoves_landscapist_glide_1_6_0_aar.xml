@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:landscapist-glide:1.6.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fead6b053f6f7fa3980959d36645cd43/transformed/landscapist-glide-1.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63df980a9da64b7780f1cd7e4227a60d/transformed/landscapist-glide-1.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/63df980a9da64b7780f1cd7e4227a60d/transformed/landscapist-glide-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63df980a9da64b7780f1cd7e4227a60d/transformed/landscapist-glide-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/landscapist-glide/1.6.0/4fb4090f49fb296fb90e1cc790b13c387cb79b29/landscapist-glide-1.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/landscapist-glide/1.6.0/d726d70e81242aedf6a866c32b4cb4873b466ef8/landscapist-glide-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
